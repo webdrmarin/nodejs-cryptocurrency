@@ -9,3 +9,8 @@ const server = net.createServer(() => {
 server.listen(port, () => {
   console.log(`listening on port ${port}...`)
 });
+
+// Crear conexión
+const client = net.createConnection((port), () => {
+  console.log('connecting to server...');
+});
