@@ -19,5 +19,8 @@
   "homepage": "https://github.com/webdrmarin/nodejs-cryptocurrency#readme",
   "devDependencies": {
     "nodemon": "^1.17.4"
+  },
+  "dependencies": {
+    "public-ip": "^2.4.0"
   }
 }
