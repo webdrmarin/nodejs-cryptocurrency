@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-cryptocurrency",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdrmarin/nodejs-cryptocurrency.git"
+  },
+  "author": "Rubén Marín Rivarés <webdrmarin@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/webdrmarin/nodejs-cryptocurrency/issues"
+  },
+  "homepage": "https://github.com/webdrmarin/nodejs-cryptocurrency#readme"
+}
